@@ -38,4 +38,6 @@ From AI Prompts to a Production-Ready Security App
 
 These cheat sheets are created as part of my **learning-in-public** journey in IT and cybersecurity.  
 I regularly share updates on I regularly share updates on [LinkedIn](https://www.linkedin.com/in/guy-cheneval-0646b0103/) — feel free to connect 👋
- 
+
+ 👉 [Click here to explore my full IT & Cybersecurity journey](https://github.com/guyleonchen)
+
