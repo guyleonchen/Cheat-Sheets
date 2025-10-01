@@ -13,7 +13,7 @@ These cheat sheets are designed to be:
 
 | Title | Description | Format |
 |-------|-------------|--------|
-| **Active Directory Lab Rebuild** | VMware lab setup, static IP, DNS configuration, DC promotion, workstation domain join, post-join checks, IPv6 DNS fix | [📄 PDF](./AD-Server-Workstation-Setup-CheatSheet.pdf)
+| **Active Directory Lab Rebuild** | VMware lab setup, static IP, DNS configuration, DC promotion, workstation domain join, post-join checks, IPv6 DNS fix | [📄 PDF](https://github.com/guyleonchen/Cheat-Sheets/blob/f905e9951c65df8bcf0cda00c9c9ac8d4a1b5069/AD-Server-Workstation-Setup-CheatSheet-Styled.pdf)
 
 ---
 
