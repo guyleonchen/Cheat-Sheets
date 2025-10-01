@@ -20,8 +20,7 @@ These cheat sheets are designed to be:
 ##  Usage
 
 These resources are free to download and use for:
-- Home lab setups
-- 
+
 ⭐ If you find these helpful, consider sharing it with others in the community!
 
 ---
