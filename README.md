@@ -20,10 +20,8 @@ These cheat sheets are designed to be:
 ##  Usage
 
 These resources are free to download and use for:
-- Home lab setups  
-- IT support and sysadmin refreshers  
-- Study for certifications  
-
+- Home lab setups
+- 
 ⭐ If you find these helpful, consider sharing it with others in the community!
 
 ---
@@ -32,8 +30,8 @@ These resources are free to download and use for:
 
 - Azure Intune Enrollment Cheat Sheet  
 - Networking Fundamentals Cheat Sheet
-
-Stay tuned 👀
+- Planned with ChatGPT · Built in Lovable  
+From AI Prompts to a Production-Ready Security App
 
 ---
 
@@ -41,4 +39,4 @@ Stay tuned 👀
 
 These cheat sheets are created as part of my **learning-in-public** journey in IT and cybersecurity.  
 I regularly share updates on I regularly share updates on [LinkedIn](https://www.linkedin.com/in/guy-cheneval-0646b0103/) — feel free to connect 👋
- — feel free to connect 👋
+ 
